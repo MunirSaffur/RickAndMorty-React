@@ -1,0 +1,8 @@
+.episode_item{
+    background-color: #495057;
+    padding: 30px 10px;
+    margin: .5rem 0;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+}

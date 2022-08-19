@@ -1,0 +1,17 @@
+.characterItem{
+    position: relative;
+}
+.characterStatus{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+.characteName{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    color: #fff !important;
+    padding-top: 30%;
+    background-image: linear-gradient(0deg,#000000fc 20% , transparent 100% );
+}

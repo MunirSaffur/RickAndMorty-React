@@ -1,0 +1,10 @@
+@import url('./episodeItem.css');
+@import url('./characterItem.css');
+
+html, body, .App{
+  background-color: black;
+  color: #fff
+}
+.navbar-toggler{
+  background-color: #319795;
+}
